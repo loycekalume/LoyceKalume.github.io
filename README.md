@@ -1,4 +1,4 @@
-# [My portfolio](LoyceKalumegithub.io)
+# [My portfolio](loycekalumegithub.io)
 
-Visit my portfolio[here](LoyceKalume.github.io)
+Visit my portfolio[here](loycekalume.github.io)
 
